@@ -1,0 +1,15 @@
+Group: Cristina Sheridan
+
+Proposal for Project 4 - Final Project
+github: https://github.com/cristina0000/Project_final
+
+Goal: predict the presence of heart disease in a person
+
+Dataset: Heart Disease Dataset heart.csv
+https://www.kaggle.com/johnsmith88/heart-disease-dataset
+
+Model: Random Forest Classifier using SciKit-Learn
+	or neural networks
+
+Tools: no idea yet, definitely not Heroku.
+AWS and postgress probably and Tableau probably 
