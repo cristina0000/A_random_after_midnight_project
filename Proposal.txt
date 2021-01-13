@@ -1,8 +1,7 @@
 Group: Cristina Sheridan
 
 Proposal for Project 4 - Final Project
-github: https://github.com/cristina0000/Project_final
-
+github: https://github.com/cristina0000/A_random_after_midnight_project/blob/main/HeartCode/heart.ipynb
 Goal: predict the presence of heart disease in a person
 
 Dataset: Heart Disease Dataset heart.csv
