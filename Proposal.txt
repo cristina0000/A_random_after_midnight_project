@@ -10,5 +10,18 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
 Model: Random Forest Classifier using SciKit-Learn
 	or neural networks
 
-Tools: no idea yet, definitely not Heroku.
-AWS and postgress probably and Tableau probably 
+Website: to display the vizualizations and details about the model
+
+Tools: 
+	jupyter notebook for the model
+	Visual Studio Code for the website (index.html etc)
+	Pandas
+	Seaborn and Matplotlib for the vizualizations posted on the website
+	HTML, CSS, Bootstrap
+
+What else to do: 
+	should put the model in a bucket on AWS
+	put the data in postgress
+
+
+AWS and postgress probably 
